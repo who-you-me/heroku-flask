@@ -1,11 +1,13 @@
 heroku-flask
 ====
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 A template for running flask application with heroku.
 
 See https://devcenter.heroku.com/articles/getting-started-with-python-o
 
-## Requirment
+## Requirement
 
 - git
 - heroku toolbelt
