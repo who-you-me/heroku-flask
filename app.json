@@ -1,0 +1,5 @@
+{
+  "name": "heroku-flask",
+  "descripttion": "A template for running flask application with heroku",
+  "keywords": ["heroku", "python", "python3", "flask"]
+}
