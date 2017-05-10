@@ -11,9 +11,11 @@ def hello():
 
 @app.route("/profile")
 def profile():
+    import sys
     if True:
         if True:
             if True:
                if True:
                     print("Trueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!")
     return "hoge"
+##aaaa
