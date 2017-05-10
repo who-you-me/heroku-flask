@@ -9,13 +9,8 @@ app = Flask(__name__)
 def hello():
     return "Hello World!"
 
+
 @app.route("/profile")
 def profile():
-    import sys
-    if True:
-        if True:
-            if True:
-               if True:
-                    print("Trueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!")
+    # this line is too too too too too too too too too too too too too too too too long for me
     return "hoge"
-##aaaa
